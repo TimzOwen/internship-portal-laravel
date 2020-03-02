@@ -58,3 +58,5 @@ class User extends Authenticatable
         return $this->hasMany('App\Report');
     }
 }
+
+// add me as a contributor 
